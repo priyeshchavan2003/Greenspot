@@ -1,0 +1,37 @@
+.mainpage{
+    margin: 0px;
+    padding: 0px;
+    border: 0px;
+    
+}
+
+
+h1{
+    color:chartreuse;
+    padding: 0%;
+    margin: 0%;
+    text-align: center;
+    margin-top: 5px;
+    padding-bottom: 5px;
+
+    
+}
+
+li{
+    list-style: none;
+    border: 1px;
+    /* border-style: dashed; */
+    height: 100px;
+    width: 200px;
+    padding: 10px;
+    display: block;
+    float:left;
+}
+
+selector{
+    clear: both;
+
+}
+h2{
+    clear: both;
+}
