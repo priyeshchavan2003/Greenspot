@@ -131,6 +131,6 @@ This project is a web application that allows users to view the list of electric
 
 ---
 
-## developer
+## Developer
 
-priyesh chavan - developed the basic structure of the project and working on future improvement.
+- Priyesh chavan - developed the basic structure of the project and working on future improvement.
